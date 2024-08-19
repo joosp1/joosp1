@@ -50,7 +50,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/joosp1/joosp1/output/snake.svg" alt="Snake animation" />
-
-###
